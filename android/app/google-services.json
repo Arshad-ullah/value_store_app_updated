@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "343834942757",
+    "project_id": "value-stories",
+    "storage_bucket": "value-stories.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343834942757:android:20c7e23f0e483efb81cecc",
+        "android_client_info": {
+          "package_name": "com.example.value_stories_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343834942757-ee0qnj6nmmtejnhtje6kovl3nq2aaabo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcJQ40NO32U5V1q2jnM749j8li-2f6sVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343834942757-ee0qnj6nmmtejnhtje6kovl3nq2aaabo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
